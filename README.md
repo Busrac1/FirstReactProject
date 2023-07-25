@@ -1,5 +1,7 @@
-# FirstReactProject
+## FirstReactProject
 
+simple react project
+This project has been created with JS, Boostrap, CSS, react
 
 Preview
 
